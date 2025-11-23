@@ -1,0 +1,100 @@
+Prediction: 0 | Packet: Ether / IPv6 / ICMPv6ND_RS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 24:91:bb:e0:15:d8
+Prediction: 0 | Packet: Ether / IP / TCP 34.120.52.64:https > 192.168.100.12:60319 PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:60319 > 34.120.52.64:https PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 34.120.52.64:https > 192.168.100.12:60319 A
+Prediction: 0 | Packet: Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Prediction: 0 | Packet: Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https S
+Prediction: 0 | Packet: Ether / IP / TCP 20.42.73.28:https > 192.168.100.12:61021 SA
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https A
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 20.42.73.28:https > 192.168.100.12:61021 PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 20.42.73.28:https > 192.168.100.12:61021 A / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 20.42.73.28:https > 192.168.100.12:61021 PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https A
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https A / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https A / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 20.42.73.28:https > 192.168.100.12:61021 A
+Prediction: 0 | Packet: Ether / IP / TCP 20.42.73.28:https > 192.168.100.12:61021 PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https A
+Prediction: 0 | Packet: Ether / IP / TCP 20.42.73.28:https > 192.168.100.12:61021 FPA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https A
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:61021 > 20.42.73.28:https FA
+Prediction: 0 | Packet: Ether / IP / TCP 20.42.73.28:https > 192.168.100.12:61021 A
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:55525 > 140.82.113.22:https A / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 140.82.113.22:https > 192.168.100.12:55525 A
+Prediction: 0 | Packet: Ether / IP / UDP / DNS Qry b'www.kaggle.com.'
+Prediction: 0 | Packet: Ether / IP / UDP / DNS Qry b'www.kaggle.com.'
+Prediction: 0 | Packet: Ether / IP / UDP / DNS Ans 35.244.233.98
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:60982 > 35.244.233.98:https S
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 35.244.233.98:https > 192.168.100.12:60982 SA
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:60982 > 35.244.233.98:https A
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:60982 > 35.244.233.98:https A / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:60982 > 35.244.233.98:https PA / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 35.244.233.98:https > 192.168.100.12:60982 A
+Prediction: 0 | Packet: Ether / IP / TCP 35.244.233.98:https > 192.168.100.12:60982 A
+Prediction: 0 | Packet: Ether / IP / TCP 35.244.233.98:https > 192.168.100.12:60982 PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:60982 > 35.244.233.98:https A
+Prediction: 0 | Packet: Ether / IP / TCP 35.244.233.98:https > 192.168.100.12:60982 PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:60982 > 35.244.233.98:https A
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:60982 > 35.244.233.98:https PA / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 35.244.233.98:https > 192.168.100.12:60982 PA / Raw
+Prediction: 0 | Packet: Ether / IP / TCP 192.168.100.12:60982 > 35.244.233.98:https A
+Prediction: 0 | Packet: Ether / IP / UDP / DNS Ans
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:62604 > 35.244.233.98:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 35.244.233.98:https > 192.168.100.12:62604 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP / DNS Qry b'accounts.google.com.'
+Prediction: 0 | Packet: Ether / IP / UDP / DNS Qry b'accounts.google.com.'
+Prediction: 0 | Packet: Ether / IP / UDP / DNS Ans 74.125.24.84
+Prediction: 0 | Packet: Ether / IP / UDP / DNS Ans
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:60709 > 74.125.24.84:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:60709 > 74.125.24.84:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 74.125.24.84:https > 192.168.100.12:60709 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 74.125.24.84:https > 192.168.100.12:60709 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 74.125.24.84:https > 192.168.100.12:60709 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 74.125.24.84:https > 192.168.100.12:60709 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:60709 > 74.125.24.84:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 74.125.24.84:https > 192.168.100.12:60709 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 74.125.24.84:https > 192.168.100.12:60709 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 74.125.24.84:https > 192.168.100.12:60709 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:60709 > 74.125.24.84:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:60709 > 74.125.24.84:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 74.125.24.84:https > 192.168.100.12:60709 / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:60709 > 74.125.24.84:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:60709 > 74.125.24.84:https / Raw
+Prediction: 0 | Packet: Ether / IP / UDP 192.168.100.12:60709 > 74.125.24.84:https / Raw
